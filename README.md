@@ -1,2 +1,2 @@
-# BCH_Low_Blood_Pressure_Analysis
-Imagine a scenario where every minute counts during a pediatric surgery. Blood pressure can fluctuate rapidly, and identifying prolonged periods of low blood pressure is crucial for patient safety. Healthcare providers need a reliable way to quickly spot potentially dangerous trends in real-time.
+# 📌 Project Overview
+Imagine a scenario where every minute counts during a pediatric surgery. Blood pressure can fluctuate rapidly, and identifying prolonged periods of low blood pressure is crucial in ensuring patient safety. Healthcare providers need a reliable way to quickly spot potentially dangerous trends in real-time. This project analyzes **low blood pressure cases** in children undergoing surgery. It identifies cases where **systolic blood pressure dropped below a safe threshold** for at least **14 consecutive minutes**, helping medical teams assess risks.
