@@ -36,10 +36,9 @@ Our analysis revealed critical insights:
 
 
 ## 🔮 Future Enhancements
-- Implement **real-time monitoring System**when low BP is detected 🚨.
+- Implement **real-time monitoring System** when low BP is detected 🚨.
 - Expand dataset for **deeper analysis** 🏥.
 - Proactive patient risk identification 🤖.
-- Expanding the Methodology to Other Medical Domains
 
 
 
