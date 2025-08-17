@@ -21,7 +21,9 @@ We developed a Python-powered ETL (Extract, Transform, Load) solution designed t
     <img width="1194" height="897" alt="Blood Presure Data Model" src="https://github.com/user-attachments/assets/cd2f670c-b261-48f4-b3d9-8553e3edb744" />
 </p>
 5. Implement dynamic, age-based blood pressure thresholds
-6.  Analyze and identify continuous periods of low blood pressure
+
+6. Analyze and identify continuous periods of low blood pressure
+
 7.  Generate detailed, clear reports for medical review
 
 
