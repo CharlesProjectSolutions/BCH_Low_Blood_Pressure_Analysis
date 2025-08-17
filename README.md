@@ -20,6 +20,7 @@ We developed a Python-powered ETL (Extract, Transform, Load) solution designed t
        BCH Data Model
     <img width="1194" height="897" alt="Blood Presure Data Model" src="https://github.com/user-attachments/assets/cd2f670c-b261-48f4-b3d9-8553e3edb744" />
 </p>
+
 5. Implement dynamic, age-based blood pressure thresholds calculations based on patient age
 
 6. Analyze and identify continuous periods of low blood pressure
@@ -35,7 +36,7 @@ Our analysis revealed critical insights:
 
 
 ## 🔮 Future Enhancements
-- Implement **real-time monitoring System** 🚨 when low BP is detected.
+- Implement **real-time monitoring System**when low BP is detected 🚨.
 - Expand dataset for **deeper analysis** 🏥.
 - Proactive patient risk identification 🤖.
 - Expanding the Methodology to Other Medical Domains
