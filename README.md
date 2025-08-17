@@ -17,15 +17,28 @@ We developed a Python-powered ETL (Extract, Transform, Load) solution designed t
 3. Convert date/time fields to proper datetime format
 4. Integrate and preprocess patient demographic and blood pressure data
    <p align="center">
-       ## BCH Data Model
+       BCH Data Model
     <img width="1194" height="897" alt="Blood Presure Data Model" src="https://github.com/user-attachments/assets/cd2f670c-b261-48f4-b3d9-8553e3edb744" />
 </p>
-5. Implement dynamic, age-based blood pressure thresholds
+5. Implement dynamic, age-based blood pressure thresholds calculations based on patient age
 
 6. Analyze and identify continuous periods of low blood pressure
 
-7.  Generate detailed, clear reports for medical review
+7. Generate detailed, clear reports for medical review
 
+## 📊 Key Result Findings & Insights
+Our analysis revealed critical insights:
+- **5 unique patients identified with prolonged low blood pressure events** during surgery.
+- **Low BP periods ranging from 14 to 24 continuous minutes**.
+- **Patient 987 had the longest duration (24 minutes)**.
+- **Potential critical moments that might have gone unnoticed without advanced analysis**.
+
+
+## 🔮 Future Enhancements
+- Implement **real-time monitoring System** 🚨 when low BP is detected.
+- Expand dataset for **deeper analysis** 🏥.
+- Proactive patient risk identification 🤖.
+- Expanding the Methodology to Other Medical Domains
 
 
 
