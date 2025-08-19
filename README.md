@@ -34,11 +34,19 @@ Our analysis revealed critical insights:
 - **Patient 987 had the longest duration (24 minutes)**.
 - **Potential critical moments that might have gone unnoticed without advanced analysis**.
 
-
 ## 🔮 Future Enhancements
 - Implement **real-time monitoring System** when low BP is detected 🚨.
 - Expand dataset for **deeper analysis** 🏥.
 - Proactive patient risk identification 🤖.
 
+## 🚀 Skills Demonstrated
+- **ETL (Extract, Transform, Load)** – Cleaning and merging raw data.
+- **Data Analysis** – Analyzing & identifying patterns in healthcare data.
+- **Visualization** – Creating graphs for insights.
+- **Reporting** – Presenting findings in PowerPoint.
+- **Problem-Solving** – Handling missing and invalid data.
 
-
+## 🔧 Technologies Used
+- **Python** (Pandas, Matplotlib)
+- **Excel/CSV** (Data Storage)
+- **PowerPoint** (Report Presentation)
