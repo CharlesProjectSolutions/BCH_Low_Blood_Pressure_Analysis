@@ -18,15 +18,8 @@ We developed a Python-powered ETL (Extract, Transform, Load) solution designed t
 2. Read both CSV files into a Pandas DataFrames
 3. Convert date/time fields to proper datetime format
 4. Integrate and preprocess patient demographic and blood pressure data
-   <p align="center">
-       BCH Data Model
-    <img width="1194" height="897" alt="Blood Presure Data Model" src="https://github.com/user-attachments/assets/cd2f670c-b261-48f4-b3d9-8553e3edb744" />
-</p>
-
 5. Implement dynamic, age-based blood pressure thresholds calculations based on patient age
-
 6. Analyze and identify continuous periods of low blood pressure
-
 7. Generate detailed, clear reports for medical review
 
 ## 📊 Key Result Findings & Insights
