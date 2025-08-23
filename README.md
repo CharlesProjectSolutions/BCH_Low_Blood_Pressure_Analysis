@@ -8,7 +8,10 @@ BCH face a complex challenge: identifying prolonged periods of low blood pressur
 Our project aimed to:
 - Develop an automated system to detect low blood pressure events
 - Create age-specific thresholds for identifying critical BP drops
-- Generate comprehensive, actionable reports for BCH medical team
+- Find cases where blood pressure dropped below age-appropriate thresholds for 14+ continuous minutes.
+- Generate comprehensive a final report containing Person ID, Service Date, and duration (in minutes) of each low blood pressure episode.
+<img width="2201" height="76" alt="image" src="https://github.com/user-attachments/assets/568b2f61-efb9-44b1-84f8-1de4787f5dd9" />
+
 
   ## 🛠️ Methodology
 We developed a Python-powered ETL (Extract, Transform, Load) solution designed to:
