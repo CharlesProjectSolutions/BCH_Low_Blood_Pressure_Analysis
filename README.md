@@ -10,7 +10,6 @@ Our project aimed to:
 - Create age-specific thresholds for identifying critical BP drops
 - Find cases where blood pressure dropped below age-appropriate thresholds for 14+ continuous minutes.
 - Generate comprehensive a final report containing Person ID, Service Date, and duration (in minutes) of each low blood pressure episode.
-<img width="2201" height="76" alt="image" src="https://github.com/user-attachments/assets/568b2f61-efb9-44b1-84f8-1de4787f5dd9" />
 
 
   ## 🛠️ Methodology
