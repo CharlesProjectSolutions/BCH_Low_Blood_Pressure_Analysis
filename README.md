@@ -1,5 +1,5 @@
 # 📌 Project Overview
-During pediatric surgeries, every moment is critical. Monitoring patient signs, especially blood pressure, can mean the difference between life and death. This project analyzes blood pressure data to identifies cases where **systolic blood pressure dropped below a safe threshold** for at least **14 consecutive minutes**, helping Boston Children's Hospistal **(BCH)** assess risks and quickly spot potentially dangerous trends in real-time.
+During pediatric surgeries, every moment is critical. Monitoring patient signs, especially blood pressure, can mean the difference between life and death. This project analyzes blood pressure data to identifies cases where **systolic blood pressure dropped below a safe threshold** for at least **14 consecutive minutes**, helping **BCH** assess risks and quickly spot potentially dangerous trends in real-time.
 
 ## ⚠️ Problem Statement
 BCH face a complex challenge: identifying prolonged periods of low blood pressure across different pediatric age groups, using data from multiple sources.  Without clear tracking, they may miss critical cases, which can lead to potential health risks for children undergoing pediatric surgery. 
@@ -39,7 +39,7 @@ Our analysis revealed critical insights:
 - **Data Analysis** – Analyzing & identifying patterns in healthcare data.
 - **Visualization** – Creating graphs for insights.
 - **Reporting** – Presenting findings in PowerPoint.
-- **Problem-Solving** – Handling missing and invalid data.
+- **Problem-Solving** – Data analysis, handling missing, and invalid data.
 
 ## 🔧 Technologies Used
 - **Python** (Pandas, Matplotlib)
